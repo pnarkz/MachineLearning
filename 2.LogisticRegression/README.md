@@ -60,7 +60,7 @@ Hedef değişken: target (0: Sağlıklı, 1: Hasta)
 | Model                    | Doğruluk | Eğitim Süresi | Tahmin Süresi |
 |--------------------------|---------|---------------|---------------|
 | Scikit-learn Logistic    | %85     | 0.05 saniye    | 0.01 saniye    |
-| Elle Yapılmış Logistic   | %83     | 2.5 saniye     | 0.02 saniye    |
+| Bayes Logistic           | %83     | 2.5 saniye     | 0.02 saniye    |
 
 ### Yorum ve Değerlendirme
 - **Scikit-learn modeli**, hem doğruluk hem de eğitim süresi açısından daha iyi performans göstermektedir.
